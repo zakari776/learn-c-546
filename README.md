@@ -233,7 +233,7 @@ High-performance .NET
 
 
 ### c# doc , ref :
-[learn esay][https://www.w3schools.com/cs/index.php]()
+[learn esay](https://www.w3schools.com/cs/index.php)
 [c# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/ )
 [language-reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
 [specification](https://learn.microsoft.com/en-us/dotnet/csharp/specification/)
