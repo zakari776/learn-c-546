@@ -230,3 +230,6 @@ EF Core Documentation
 .NET Runtime Documentation
 
 High-performance .NET
+
+### c# doc , ref :
+[https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/] (c# documentation )
