@@ -231,6 +231,16 @@ EF Core Documentation
 
 High-performance .NET
 
+
 ### c# doc , ref :
+[learn esay][https://www.w3schools.com/cs/index.php]()
 [c# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/ )
 [language-reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+[specification](https://learn.microsoft.com/en-us/dotnet/csharp/specification/)
+
+### .NET doc , ref :
+[Global .NET documentation](https://learn.microsoft.com/en-us/dotnet/)
+[.NET fundamentals documentation](https://learn.microsoft.com/en-us/dotnet/fundamentals/)
+
+**For visaul studio shortcut**
+https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=visualstudio
